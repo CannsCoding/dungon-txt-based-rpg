@@ -1,0 +1,19 @@
+﻿  combat.cpp
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\combat.cpp(19,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\combat.cpp(20,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\combat.cpp(404,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  game.cpp
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\game.cpp(99,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\game.cpp(112,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\game.cpp(124,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\game.cpp(125,7): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\game.cpp(135,23): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  globals.cpp
+  items.cpp
+  main.cpp
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\main.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+C:\Users\s261281\Documents\Codex\2026-09-11\would-like-to-put-some-functions\outputs\game-code-text-files\player.cpp(12,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  shop.cpp
+  Generating Code...
+  dungon txt based rpg.vcxproj -> C:\Users\s261281\Desktop\my stuff\dungon txt based rpg\x64\Debug\dungon txt based rpg.exe
